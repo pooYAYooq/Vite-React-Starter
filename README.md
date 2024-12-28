@@ -1,0 +1,1 @@
+# A starter template for a Vite + React project.
